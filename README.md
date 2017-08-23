@@ -38,7 +38,7 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 - When speakers are confirmed ensure you 
 
 ## The speakers
-- Ensure once you have found people interested in speakers that you 
+- Ensure once you have found people interested in speakers that you clearly confirm via email
 - Send a regular email updating them on important details (like attendee numbers)
 - Send a photo of the room and give details on the space available
 - Ask them to send you copies of their slides and run from one computer if possible (to minimise disruption from change overs)
