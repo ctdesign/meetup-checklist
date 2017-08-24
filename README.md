@@ -29,6 +29,7 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 
 ## Keeping up interest
 - Give the audience a start time for showing up and the time the talks will start
+- If its gov only - ask people to sign up with their gov email address
 - Post updates regularly (but not too frequently so that you annoy people)
 - Either setup an event twitter account or ask your audience to follow you
 - Send reminder emails via eventbrite
