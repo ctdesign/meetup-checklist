@@ -66,6 +66,11 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 - Have an intro slidedeck ready - give an overview, point out toilets, fire exits and the evacuation procedure
 - Have an end slidedeck to direct people to the pub you're going to and to thank people. If possible inform them of the next event date
 
+## Post event
+- Send thank you message to speakers, attendees and anyone who helped
+- Send questionnaire to speakers
+- Send questionnaire to attendees and promote the next event
+
 ## Other useful resources
 
 ### Tools
