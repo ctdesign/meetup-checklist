@@ -35,7 +35,7 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 - Setup a waiting list on eventbrite
 - Inform attendees of the plans after the event so that they can allow for that with trains etc
 - Create a poster for the day and put up in relevant communal spaces
-- When speakers are confirmed ensure you 
+- When speakers are confirmed ensure you email the audience and update the event page with information
 
 ## The speakers
 - Ensure once you have found people interested in speakers that you clearly confirm via email
