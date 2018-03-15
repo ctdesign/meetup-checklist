@@ -1,12 +1,13 @@
 # Meet-up checklist
 
-I recently ran a small design meet-up and wanted to share a bunch of things I learned (some sourced from the articles at the footer). I put together this checklist to help me plan and added to it following the meetup with things that I learned.
+I've now ran a few meetups and wanted to share a bunch of things I learned (some sourced from the articles at the footer). I put together this checklist to help me plan and added to it following the meetup with things that I learned.
 
 ## Deciding on the format
 - Ask friends and colleagues if the topic will be of interest first
 - Are they talks or show and tells?
-- Keep the talks short if possible (around 20 mins)
+- Keep the talks short if possible (around 20-30 mins max)
 - Try 2-3 speakers on a theme
+- Do you need a photographer?
 
 ## Deciding on a date
 - Informing people of the date 4-6 weeks ahead
@@ -16,7 +17,7 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 
 ## The venue
 - Does it have wifi for audience?
-- Is the venue accessible?
+- Is the venue accessible, does it have accessible toilets
 - Is it in a safe location? How far is public transport?
 - What are the fire evacuation procedures?
 - What parking is available?
@@ -26,6 +27,7 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 ## Finding the audience
 - Promote the event in the places your audience frequent. For my audience I posted on the cross-government slack, the service design mailing list and asked the Gov Design twitter account to retweet for me. 
 - Obviously, tweet about it and post on facebook. You're probably friends with the type of audience you are looking for so ask them to help promote it and talk to people about it. 
+- Warn people if you plan to take photos and offer the option to opt out
 
 ## Keeping up interest
 - Give the audience a start time for showing up and the time the talks will start
@@ -40,10 +42,10 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 
 ## The speakers
 - Ensure once you have found people interested in speakers that you clearly confirm via email
+- Are the speakers diverse? Are there other places to source speakers outside of your typical experience? 
 - Send a regular email updating them on important details (like attendee numbers)
 - Send a photo of the room and give details on the space available
 - Ask them to send you copies of their slides and run from one computer if possible (to minimise disruption from change overs)
-- Ask them to bring offline demos as backup, or be prepared to tether internet connection
 - Tell them how long it takes to get to venue
 - Do they need any help getting to the venue and home?
 - Inform them if there are mics or audio speakers available
@@ -56,8 +58,9 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 - Check through each slide deck submitted to make sure there are no issues (do videos play? are there any font issues?)
 - See if its possible to put your poster in the window of the venue for the attendees
 - If neccessary, make sure reception have an up to date list of attendees
-- Have someone help you complete the register (or use the eventbrite app to sign people in) and direct people to the room
-- Make a backup of the slides that you can access
+- Have someone help you complete the register and direct people to the room
+- Make a backup of the slides on online storage that you can access
+- Make contingencies for no internet
 - Make pdf versions of the slides as a backup
 - Get spare video cables, bring a spare usb drive with the slides on, bring a spare video connection convertor
 - Hold the front row of chairs for the speakers to make change overs easier
@@ -76,6 +79,7 @@ I recently ran a small design meet-up and wanted to share a bunch of things I le
 ### Tools
 - [Trello](https://trello.com) - for keeping you organised
 - [Eventbrite](https://eventbrite.co.uk) - for hosting the event page, ticket sales management and contacting audience
+- [Attending.io](http://attending.io)
 
 ### Articles on organising a meetup
 - https://daveredfern.com/2016/ive-learned-organising-meetup/
